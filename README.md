@@ -1,2 +1,2 @@
 # SaveOurSouls
- An android project
+ An android development project
